@@ -1,0 +1,51 @@
+.atas{
+    width: 50%;
+    margin-left: 300px;
+}
+img{
+   width: 150px;
+   height: 195px;
+   margin-right: 20px;
+}
+header{
+    display: flex;
+}
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+.cate{
+    text-align: justify;
+    margin-left: 500px;
+}
+.garis{
+    color: black;
+}
+section{
+    text-align: justify;
+}
+video{
+    width: 200px;
+}
+footer{
+    display: flex;
+}
+object{
+    width: auto;
+    height: auto;
+    margin-right: auto;
+}
+iframe{
+    width: 230px;
+    margin-right: 20px;
+}
+.foto4 {
+    width: auto;
+    margin-top: auto;
+    height: auto;
+}
+.bawah{
+    width: 230px;
+    margin-left: auto;
+    height: auto;
+}
