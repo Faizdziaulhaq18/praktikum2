@@ -1,0 +1,57 @@
+.atas{
+    width: 50%;
+    margin-left: 290px;
+    height: 46em;
+}
+.gambar{
+   width: 200px;
+   margin-right: 10px;
+   height: 200px;
+}
+header{
+    display: flex;
+}
+h1{
+    margin-top: 0px;
+    padding: 0px;
+}
+.Cate{
+    text-align: justify;
+    margin-left: 450px;
+}
+.garis{
+    color: black;
+}
+#isi{
+    text-align: justify;
+    margin-bottom: 45px;
+}
+footer{
+    display: flex;
+}
+.kotak{
+    width: 284px;
+    height: 270px;
+    border: black solid 2px;
+    margin-right: 10px;
+}
+.kaki{
+    height: 148px;
+}
+img{
+    width: 140px; 
+}
+ul{
+    list-style-image: url(img/pdf.png);
+    padding: 11px;
+    margin: 0px;
+}
+video{
+    width: 250px;
+    margin-right: 100px;
+    height: 200px;
+}
+audio{
+   height: 20px;
+   margin-bottom: 5px;
+}
